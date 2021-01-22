@@ -78,4 +78,6 @@ if $PROGRAM_NAME == __FILE__
       # resume game, using first argument
       YAML.load_file(ARGV.shift).game
     end
-  end
+end
+
+# Hello, I am just testing something
