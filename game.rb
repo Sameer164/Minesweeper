@@ -80,4 +80,3 @@ if $PROGRAM_NAME == __FILE__
     end
 end
 
-# Hello, I am just testing something
