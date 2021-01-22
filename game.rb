@@ -63,6 +63,10 @@ class Game
         end
     end
 
+    def hello_hul
+        #does nothing
+    end
+
 
 end
 
